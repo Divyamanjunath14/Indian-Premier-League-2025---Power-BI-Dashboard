@@ -25,7 +25,7 @@ An interactive Power BI dashboard that analyzes the Indian Premier League (IPL) 
 ---
 ## 📂 Dataset Source
 
-The dataset used in this project was sourced from **Kaggle**
+The dataset used in this project was sourced from **Kaggle**:
 ---
 
 ## 🛠️ Tools & Tech
