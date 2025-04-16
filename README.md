@@ -17,11 +17,15 @@ An interactive Power BI dashboard that analyzes the Indian Premier League (IPL) 
 
 ## 📁 Files Included
 
-- `IPL_2025_Report.pbix` — Power BI report file
+- `IPL2025.pbix` — Power BI report file
 - `matches.csv` — Match-level data
 - `deliveries.csv` — Ball-by-ball delivery data
 - `images/` — Backgrounds, logos used in report
 
+---
+## 📂 Dataset Source
+
+The dataset used in this project was sourced from **Kaggle**
 ---
 
 ## 🛠️ Tools & Tech
